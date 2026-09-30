@@ -1,0 +1,194 @@
+[
+  {
+    "id": "outdoors-1",
+    "name": "Alpine Trail Pack",
+    "category": "outdoors",
+    "price": 79,
+    "stock": 20,
+    "text": "Alpine Trail Pack waterproof hiking backpack mountain trail travel"
+  },
+  {
+    "id": "outdoors-2",
+    "name": "Summit Rain Shell",
+    "category": "outdoors",
+    "price": 110,
+    "stock": 20,
+    "text": "Summit Rain Shell waterproof rain jacket hiking lightweight wind"
+  },
+  {
+    "id": "outdoors-3",
+    "name": "Trail Grip Boots",
+    "category": "outdoors",
+    "price": 125,
+    "stock": 20,
+    "text": "Trail Grip Boots hiking boots waterproof traction mountain"
+  },
+  {
+    "id": "outdoors-4",
+    "name": "Camp Lantern",
+    "category": "outdoors",
+    "price": 29,
+    "stock": 20,
+    "text": "Camp Lantern camping lantern rechargeable light outdoor"
+  },
+  {
+    "id": "outdoors-5",
+    "name": "Insulated Trail Bottle",
+    "category": "outdoors",
+    "price": 24,
+    "stock": 20,
+    "text": "Insulated Trail Bottle water bottle insulated hiking travel stainless"
+  },
+  {
+    "id": "outdoors-6",
+    "name": "Trek Poles",
+    "category": "outdoors",
+    "price": 45,
+    "stock": 20,
+    "text": "Trek Poles hiking trekking poles mountain lightweight"
+  },
+  {
+    "id": "office-1",
+    "name": "Quiet Type Keyboard",
+    "category": "office",
+    "price": 65,
+    "stock": 20,
+    "text": "Quiet Type Keyboard wireless keyboard quiet ergonomic office desk"
+  },
+  {
+    "id": "office-2",
+    "name": "Focus Desk Lamp",
+    "category": "office",
+    "price": 39,
+    "stock": 20,
+    "text": "Focus Desk Lamp desk lamp adjustable reading office light"
+  },
+  {
+    "id": "office-3",
+    "name": "Ergo Task Chair",
+    "category": "office",
+    "price": 220,
+    "stock": 20,
+    "text": "Ergo Task Chair ergonomic chair lumbar office desk"
+  },
+  {
+    "id": "office-4",
+    "name": "Studio Monitor Arm",
+    "category": "office",
+    "price": 55,
+    "stock": 20,
+    "text": "Studio Monitor Arm monitor arm adjustable desk office screen"
+  },
+  {
+    "id": "office-5",
+    "name": "Commuter Laptop Bag",
+    "category": "office",
+    "price": 49,
+    "stock": 20,
+    "text": "Commuter Laptop Bag laptop bag padded office travel backpack"
+  },
+  {
+    "id": "office-6",
+    "name": "Precision Wireless Mouse",
+    "category": "office",
+    "price": 32,
+    "stock": 20,
+    "text": "Precision Wireless Mouse wireless mouse ergonomic office computer"
+  },
+  {
+    "id": "fitness-1",
+    "name": "Flex Yoga Mat",
+    "category": "fitness",
+    "price": 35,
+    "stock": 20,
+    "text": "Flex Yoga Mat yoga mat exercise non slip fitness stretch"
+  },
+  {
+    "id": "fitness-2",
+    "name": "Stride Running Shoes",
+    "category": "fitness",
+    "price": 89,
+    "stock": 20,
+    "text": "Stride Running Shoes running shoes lightweight road fitness"
+  },
+  {
+    "id": "fitness-3",
+    "name": "Resistance Band Set",
+    "category": "fitness",
+    "price": 19,
+    "stock": 20,
+    "text": "Resistance Band Set resistance bands strength exercise fitness"
+  },
+  {
+    "id": "fitness-4",
+    "name": "Recovery Foam Roller",
+    "category": "fitness",
+    "price": 25,
+    "stock": 20,
+    "text": "Recovery Foam Roller foam roller recovery exercise massage"
+  },
+  {
+    "id": "fitness-5",
+    "name": "Run Hydration Belt",
+    "category": "fitness",
+    "price": 28,
+    "stock": 20,
+    "text": "Run Hydration Belt running water hydration belt lightweight"
+  },
+  {
+    "id": "fitness-6",
+    "name": "Training Duffel",
+    "category": "fitness",
+    "price": 42,
+    "stock": 20,
+    "text": "Training Duffel gym bag fitness training travel"
+  },
+  {
+    "id": "kitchen-1",
+    "name": "Pour Over Kit",
+    "category": "kitchen",
+    "price": 38,
+    "stock": 20,
+    "text": "Pour Over Kit coffee pour over brewer kitchen glass"
+  },
+  {
+    "id": "kitchen-2",
+    "name": "Burr Coffee Grinder",
+    "category": "kitchen",
+    "price": 85,
+    "stock": 20,
+    "text": "Burr Coffee Grinder coffee grinder burr kitchen beans"
+  },
+  {
+    "id": "kitchen-3",
+    "name": "Steel Chef Knife",
+    "category": "kitchen",
+    "price": 59,
+    "stock": 20,
+    "text": "Steel Chef Knife chef knife kitchen cooking steel"
+  },
+  {
+    "id": "kitchen-4",
+    "name": "Cast Iron Skillet",
+    "category": "kitchen",
+    "price": 45,
+    "stock": 0,
+    "text": "Cast Iron Skillet cast iron pan skillet kitchen cooking"
+  },
+  {
+    "id": "kitchen-5",
+    "name": "Digital Kitchen Scale",
+    "category": "kitchen",
+    "price": 22,
+    "stock": 20,
+    "text": "Digital Kitchen Scale digital scale baking kitchen coffee"
+  },
+  {
+    "id": "kitchen-6",
+    "name": "Travel Coffee Mug",
+    "category": "kitchen",
+    "price": 26,
+    "stock": 20,
+    "text": "Travel Coffee Mug coffee mug insulated travel steel"
+  }
+]
